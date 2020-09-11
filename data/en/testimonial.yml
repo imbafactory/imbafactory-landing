@@ -1,0 +1,25 @@
+enable : true
+item    :
+  - quote       : >
+      Improve your odds with higher accuracy data, allow users to bet on more live markets and increase users engagement and retention.
+    clientThumb : images/client-logo/clients-1.jpg
+    clientName  : Betting
+    clientDesignation: 
+
+  - quote       : >
+      Provide your viewers with the best-in-market insights, create data-driven content in real-time to grow and engage your audience.
+    clientThumb : images/client-logo/clients-2.jpg
+    clientName  : Media production
+    clientDesignation: 
+
+  - quote       : >
+      Integrate widget to your existing eSports website or develop new eSports products using detailed real-time data to grow your business.
+    clientThumb : images/client-logo/clients-1.jpg
+    clientName  : eSports startups
+    clientDesignation: 
+
+  - quote       : >
+      Provide your players with insights in real-time and remain competitive.
+    clientThumb : images/client-logo/clients-2.jpg
+    clientName  : Team coaching
+    clientDesignation: 

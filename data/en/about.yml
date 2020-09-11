@@ -1,0 +1,13 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : https://cdnb.artstation.com/p/assets/images/images/000/261/521/4k/mike-azevedo-wd.jpg?1443929115
+    title : Real-time data delivery
+    description : >
+      Access detailed eSports data in real-time. With thousands of events happening each second you gain a deep understanding of the game. Drill down through data to get better insights into what is happening in the match. 
+
+  - positionRight : true
+    image : https://cdna.artstation.com/p/assets/images/images/012/821/402/large/shaylyn-alia-hamm-tinker.jpg?1536688082
+    title : Easy integration
+    description : >
+      Our APIs and products are designed with this in mind. We are making it as easy as possible to integrate with our APIs by providing code generation support to integrate with our APIs. We keep a very active knowledge center and our engineers are putting extra focus on ease of use.

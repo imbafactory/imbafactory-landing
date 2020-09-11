@@ -1,0 +1,28 @@
+enable  : true
+topTitle:  How are we different?
+title   : Novel approaches to data and markets modeling
+subtitle: Our unique live data API enables us to build new markets for eSports and optimize the existing ones.
+item    :
+  - number  : 1
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Granular LIVE data
+    description : >
+      Gain access to hundreds of events happening simultaneously or drill down on individual players and their decisions – all in real-time.
+
+  - number  : 2
+    icon    : tf-ion-ios-alarm-outline
+    title   : Timely LIVE data
+    description : >
+      Our API contains per second updates and are as close to the realtime as technically and legally possible.
+
+  - number  : 3
+    icon    : tf-ion-ios-email-outline
+    title   : Deep-learning models
+    description : >
+      We have dozens of predictive models which can predict different objectives and outcomes with very high accuracy.
+
+  - number  : 4
+    icon    : tf-ion-ios-locked-outline
+    title   :  Market efficiency sensitivity
+    description : >
+      Our models are sensitive to market efficiency movements as well as ingame data. We are offering our clients to back propagate feedback.

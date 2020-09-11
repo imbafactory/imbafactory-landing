@@ -1,0 +1,45 @@
+enable  : true
+topTitle: TEAM MEMBER
+title   : Our Team.
+subtitle: Our team consist of people with diverse backgrounds whereas all of them are experts in their own fields.
+
+member  :
+  - image         : https://media-exp1.licdn.com/dms/image/C4D03AQEsi6c9iMZ-fA/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=hl6yeALecxzfAtlPaB4TGMc3-5bLWT2SPvXEvukh8hU
+    name          : Goran Mlinaric
+    designation   : Product
+    description   : >
+      As a passionate eSports player with years of experience in product building he is driven to revolutionize eSports industry through latest advancements in machine learning.
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : https://avatars0.githubusercontent.com/u/1253355?s=460&v=4
+    name          : Samuel Picek
+    designation   : Engineering
+    description   : >
+      With proven track record and several globally successful projects behind him, he is determined to build and deliver next generation data driven platform for eSports.
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : https://media-exp1.licdn.com/dms/image/C4E03AQFmr042KhSmug/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=rSam48Eq7XvQdVkTW10O5CI5NJktO6FSxXecNZuPw98
+    name          : Hrvoje Orejas
+    designation   : Engineering
+    description   : >
+      As a rockstar SRE, delivering high uptime services to his client its no strange feat for him. It's personal motivation to revolutionize eSports industry comes as a childhood dream.
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
+
+  - image         : https://media-exp1.licdn.com/dms/image/C4E03AQEAIwHXf5PZmg/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=FSzCmZ8_Vo4wojTDQBu0wpcczZqFE1yFxPVL2kOmwu4
+    name          : Nathanaël Perraudin
+    designation   : Data Science
+    description   : >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/
