@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://imbafactory-landing.github.io"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
@@ -121,7 +121,7 @@ footerSubscribeTitle = "Subscribe"
 [Languages.en.params.hero]
 enable  = true
 heading = "Our passion is eSports INSIGHTS"
-description = "Two most important pillars to every eSports match are granularity of the data and its timeliness."
+description = "Two most important pillars to every eSports match are granularity of the data and its timeliness. This is the basis of every great data-driven product."
 button  = true
 btnText = "Learn more"
 btnURL  = "https://docs.imbafactory.com"
